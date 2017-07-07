@@ -1,0 +1,38 @@
+<style type="text/css">
+[class*="col"] { margin-bottom: 20px; }
+img { width: 100%; }
+body { margin-top: 10px; }
+</style>
+
+.cade3 {
+	width: 48%;
+	height:60vh;
+	float: left; 
+}
+
+.fa-facebook{
+	color: black;
+	font-size: 14px;
+}
+
+.social{
+	color: red;
+}
+
+.wrapper{
+	min-height: 40vh;
+}
+
+.card{
+	height: 35vh;
+	width: 30%;
+	float: left;
+	margin-left: 12px;
+	position: relative;
+	left: 20%;
+	text-decoration:none; 
+}
+
+ul li{
+	text-decoration: none;
+}
